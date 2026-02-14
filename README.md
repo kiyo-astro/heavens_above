@@ -8,7 +8,10 @@ OR you can execute python files directory<br>
 <br>
 **For environments other than Apple silicon Mac**<br>
 Use PyInstaller to make python files executable.<br>
-OR you can execute python files directory
+OR you can execute python files directory<br>
+<br>
+**If you want to use in raw Python-coding**<br>
+Use [satphotometry library heavens_above.py](https://github.com/kiyo-astro/satphotometry/blob/main/heavens_above.py)
 
 ## Usage
 ### get_hapasschart

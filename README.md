@@ -24,14 +24,16 @@ Retrieve pass chart from [Heavens-Above](https://heavens-above.com)<br>
   output_PATH           Output image file path<br>
 <br>
 **options** :<br>
-  -h, --help            show this help message and exit<br>
-  -n, --norad NORAD_ID  NORAD catalog number<br>
-  -t, --date DATE       Date and time (UTC) when satellite pass begins [YYYY-MM-DDThh:mm:ss])<br>
-  -l, --lon LON         Observer geodetic longitude [deg]<br>
-  -b, --lat LAT         Observer geodetic latitude [deg]<br>
-  -z, --height HEIGHT   Observer geodetic height [km]<br>
-  -Z, --tz TZ           PassChart display timezone (default: "UCT")<br>
-  -R, --size IMGSIZE    Output PassChart image size [pix] (default: 800)<br>
+```TSV
+  `-h`, `--help`               show help message and exit
+  `-n`, `--norad`  `NORAD_ID`  NORAD catalog number
+  `-t`, `--date`   `DATE`      Date and time (UTC) when satellite pass begins [YYYY-MM-DDThh:mm:ss])
+  `-l`, `--lon`    `LON`       Observer geodetic longitude [deg]
+  `-b`, `--lat`    `LAT`       Observer geodetic latitude [deg]
+  `-z`, `--height` `HEIGHT`    Observer geodetic height [km]
+  `-Z`, `--tz`     `TZ`        PassChart display timezone (default: "UCT")
+  `-R`, `--size`   `IMGSIZE`   Output PassChart image size [pix] (default: 800)
+```
 
 ## Author
 (c) 2026 **Kiyoaki Okudaira**<br>

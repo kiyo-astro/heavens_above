@@ -12,7 +12,8 @@ OR you can execute python files directory
 
 ## Usage
 ### get_hapasschart
-**usage** : `get_hapasschart [-h] -n NORAD_ID -t DATE -l LON -b LAT -z HEIGHT [-Z TZ] [-R IMGSIZE] output_PATH`<br>
+**usage** :<br>
+`get_hapasschart [-h] -n NORAD_ID -t DATE -l LON -b LAT -z HEIGHT [-Z TZ] [-R IMGSIZE] output_PATH`<br>
 <br>
 Retrieve pass chart from heavens-above.com<br>
 <br>

@@ -27,7 +27,7 @@ Retrieve pass chart from [Heavens-Above](https://heavens-above.com)<br>
 ```TSV
   `-h`, `--help`               show help message and exit
   `-n`, `--norad`  `NORAD_ID`  NORAD catalog number
-  `-t`, `--date`   `DATE`      Date and time (UTC) when satellite pass begins [YYYY-MM-DDThh:mm:ss])
+  `-t`, `--date`   `DATE`      Date and time (UTC) when satellite pass begins [YYYY-MM-DDThh:mm:ss]
   `-l`, `--lon`    `LON`       Observer geodetic longitude [deg]
   `-b`, `--lat`    `LAT`       Observer geodetic latitude [deg]
   `-z`, `--height` `HEIGHT`    Observer geodetic height [km]

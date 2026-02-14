@@ -1,5 +1,5 @@
 # Heavens-Above Program Package
-Python-based executable file set that shamefully scrap Heavens-Above.com web service
+Python-based executable file set that shamefully scrap [Heavens-Above](https://heavens-above.com) web service
 
 ## Install
 **For Apple silicon Mac**<br>
@@ -18,7 +18,7 @@ Use [satphotometry library heavens_above.py](https://github.com/kiyo-astro/satph
 **usage** :<br>
 `get_hapasschart [-h] -n NORAD_ID -t DATE -l LON -b LAT -z HEIGHT [-Z TZ] [-R IMGSIZE] output_PATH`<br>
 <br>
-Retrieve pass chart from heavens-above.com<br>
+Retrieve pass chart from [Heavens-Above](https://heavens-above.com)<br>
 <br>
 **positional arguments** :<br>
   output_PATH           Output image file path<br>
@@ -35,4 +35,4 @@ Retrieve pass chart from heavens-above.com<br>
 
 ## Author
 (c) 2026 **Kiyoaki Okudaira**<br>
-Kyushu University Hanada Lab (SSDL) / University of Washington / IAU CPS SatHub
+Kyushu University Hanada Lab (SSDL)

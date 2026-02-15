@@ -4,11 +4,11 @@ Python-based executable file set that shamefully scrap [Heavens-Above](https://h
 ## Install
 **For Apple silicon Mac**<br>
 Download ./dist/ folder and you can use executable files as they are.<br>
-OR you can execute python files directory<br>
+OR you can execute python files directly<br>
 <br>
 **For environments other than Apple silicon Mac**<br>
 Use PyInstaller to make python files executable.<br>
-OR you can execute python files directory<br>
+OR you can execute python files directly<br>
 <br>
 **If you want to use in raw Python-coding**<br>
 Use [satphotometry library heavens_above.py](https://github.com/kiyo-astro/satphotometry/blob/main/heavens_above.py)<br>
